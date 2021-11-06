@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T19:17:19.622Z" agent="5.0 (X11)" etag="gNdmgrNcZpAzrTdGJ9CU" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T20:08:23.934Z" agent="5.0 (X11)" etag="VLOVeId19jwxi5FRaNqo" version="15.7.0" type="github">
   <diagram id="qMa-_QxccuimeE_cbAPb" name="Page-1">
     <mxGraphModel dx="2274" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ih-YGPsCaoq6DHACvWlH-1" value="&lt;font color=&quot;#FF6666&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DEVGIRL&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#b85450;html=1;whiteSpace=wrap;fillColor=#FF9933;verticalAlign=middle;align=center;spacing=20;fontSize=60;gradientColor=#F19C99;" vertex="1" parent="1">
+        <mxCell id="Ih-YGPsCaoq6DHACvWlH-1" value="&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DEVGIRL&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#b85450;html=1;whiteSpace=wrap;fillColor=#FF9933;verticalAlign=middle;align=center;spacing=20;fontSize=60;gradientColor=#F19C99;" vertex="1" parent="1">
           <mxGeometry y="-10" width="850" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Ih-YGPsCaoq6DHACvWlH-2" value="&lt;font color=&quot;#666666&quot;&gt;&lt;i&gt;&lt;b&gt;¿Buscar reinventarte? ¿Buscas explorarte en un nuevo ambito?Empoderarte &lt;br&gt;&lt;br&gt;Last updated 3 mins ago&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="fillColor=none;strokeColor=none;fontColor=#ffffff;html=1;verticalAlign=top;align=left;spacing=20;fontSize=14;horizontal=1;gradientDirection=radial;gradientColor=#FFFFFF;" vertex="1" parent="Ih-YGPsCaoq6DHACvWlH-1">
